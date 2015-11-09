@@ -1,0 +1,6 @@
+D:\WORK\SAVES\C#\Calculator\Calculator_BLL\bin\Debug\Calculator_BLL.dll
+D:\WORK\SAVES\C#\Calculator\Calculator_BLL\bin\Debug\Calculator_BLL.pdb
+D:\WORK\SAVES\C#\Calculator\Calculator_BLL\obj\Debug\Calculator_BLL.dll
+D:\WORK\SAVES\C#\Calculator\Calculator_BLL\obj\Debug\Calculator_BLL.pdb
+D:\WORK\SAVES\C#\Calculator\Calculator_BLL\bin\Debug\Ninject.dll
+D:\WORK\SAVES\C#\Calculator\Calculator_BLL\bin\Debug\Ninject.xml

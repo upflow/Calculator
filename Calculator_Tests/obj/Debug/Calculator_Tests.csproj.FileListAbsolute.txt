@@ -1,0 +1,11 @@
+D:\WORK\SAVES\C#\Calculator\Calculator_Tests\bin\Debug\Calculator_Tests.dll
+D:\WORK\SAVES\C#\Calculator\Calculator_Tests\bin\Debug\Calculator_Tests.pdb
+D:\WORK\SAVES\C#\Calculator\Calculator_Tests\bin\Debug\Moq.dll
+D:\WORK\SAVES\C#\Calculator\Calculator_Tests\bin\Debug\Moq.xml
+D:\WORK\SAVES\C#\Calculator\Calculator_Tests\obj\Debug\Calculator_Tests.csprojResolveAssemblyReference.cache
+D:\WORK\SAVES\C#\Calculator\Calculator_Tests\obj\Debug\Calculator_Tests.dll
+D:\WORK\SAVES\C#\Calculator\Calculator_Tests\obj\Debug\Calculator_Tests.pdb
+D:\WORK\SAVES\C#\Calculator\Calculator_Tests\bin\Debug\Calculator_BLL.dll
+D:\WORK\SAVES\C#\Calculator\Calculator_Tests\bin\Debug\Calculator_BLL.pdb
+D:\WORK\SAVES\C#\Calculator\Calculator_Tests\bin\Debug\Ninject.dll
+D:\WORK\SAVES\C#\Calculator\Calculator_Tests\bin\Debug\Ninject.xml

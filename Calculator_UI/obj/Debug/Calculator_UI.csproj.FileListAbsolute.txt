@@ -1,0 +1,10 @@
+D:\WORK\SAVES\C#\Calculator\Calculator_UI\bin\Debug\Calculator_UI.exe.config
+D:\WORK\SAVES\C#\Calculator\Calculator_UI\bin\Debug\Calculator_UI.exe
+D:\WORK\SAVES\C#\Calculator\Calculator_UI\bin\Debug\Calculator_UI.pdb
+D:\WORK\SAVES\C#\Calculator\Calculator_UI\obj\Debug\Calculator_UI.exe
+D:\WORK\SAVES\C#\Calculator\Calculator_UI\obj\Debug\Calculator_UI.pdb
+D:\WORK\SAVES\C#\Calculator\Calculator_UI\obj\Debug\Calculator_UI.csprojResolveAssemblyReference.cache
+D:\WORK\SAVES\C#\Calculator\Calculator_UI\bin\Debug\Calculator_BLL.dll
+D:\WORK\SAVES\C#\Calculator\Calculator_UI\bin\Debug\Calculator_BLL.pdb
+D:\WORK\SAVES\C#\Calculator\Calculator_UI\bin\Debug\Ninject.dll
+D:\WORK\SAVES\C#\Calculator\Calculator_UI\bin\Debug\Ninject.xml
